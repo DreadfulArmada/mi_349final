@@ -1,6 +1,6 @@
 body {
     border-width: 100px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: dimgrey;
     font-size: 24px;
     border-top: 10px solid black;
@@ -59,10 +59,6 @@ h2 {
     transition: opacity ease-in-out 0.2s;
 }
 
-section {
-    border: 20px black;
-    height: auto;
-}
 
 
 .plat.img {
